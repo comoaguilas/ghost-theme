@@ -1,0 +1,15 @@
+{
+  "name": "Como Aguilas",
+  "version": "1.0.0",
+  "description": "A minimalistic theme for Ghost inspired by Como Aguilas.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/comoaguilas/blog.git"
+  },
+  "author": "Miguelangel Cabrera <mcabrera.dev@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/comoaguilas/blog/issues"
+  },
+  "homepage": "https://github.com/comoaguilas/blog",
+  "private": false
+}
